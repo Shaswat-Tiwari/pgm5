@@ -1,2 +1,2 @@
 hello,this is shaswat
-i am i gitlab on friday
+i am in gitlab on friday
